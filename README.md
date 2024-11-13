@@ -1,4 +1,6 @@
 # Conversor de PDF
+### Opção com Interface Disponível para Windows e Linux
+
 ### Funções:
 De PDF para DOCX
 De PDF para DOC
