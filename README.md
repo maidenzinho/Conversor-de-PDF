@@ -1,7 +1,17 @@
 # Conversor de PDF
 ### Funções:
 De PDF para DOCX
+De PDF para DOC
+Mais opções em breve...
 
+### Bibliotecas usadas:
+```
+pip install pdf2docx python-docx
+```
+
+```
+pip install PyQt5
+```
 
 ### Como usar:
 Windows:
